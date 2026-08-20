@@ -1,5 +1,10 @@
-Shoping list 
+Shopping list
+1.Milk
+2.Bread
+3.Cream
+4.Soup
 1.milk
 2.bread
 3.Cheese
 4.soup
+5.Butter
